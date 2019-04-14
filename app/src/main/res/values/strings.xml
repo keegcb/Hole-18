@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hole 18</string>
+    <string name="text_course_par">PAR FOR COURSE</string>
+    <string name="text_total_taken">TOTAL STROKES</string>
+    <string name="par_stroke_compare">0</string>
+    <string name="par_number">0</string>
+    <string name="total_strokes_number">0</string>
+    <string name="text_hole1">HOLE 1</string>
+    <string name="radio_par2">PAR 2</string>
+    <string name="radio_par3">PAR 3</string>
+    <string name="radio_par4">PAR 4</string>
+    <string name="button_next">NEXT HOLE</string>
+    <string name="text_strokes">0</string>
+    <string name="button_add">+</string>
+    <string name="button_minus">-</string>
+    <string name="text_hole2">HOLE 2</string>
+    <string name="button_back">BACK</string>
+</resources>
